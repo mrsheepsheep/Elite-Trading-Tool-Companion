@@ -10,6 +10,8 @@ Yes, it's pretty hard to read right now, but it shows every single information a
 
 Total profit in parenthesis is based on your ship's cargo size.
 
+Please also note the buttons do not render when the dark theme is used.
+
 # Download
 [Click here](https://github.com/mrsheepsheep/Elite-Trading-Tool-Companion/releases/latest) to download the plugin as a zip file. You don't need to unzip it. See installation details below.
 
