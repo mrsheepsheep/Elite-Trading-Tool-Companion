@@ -1,5 +1,5 @@
 # Elite Trading Tool Companion
-E:D Market Connector plugin to access the Elite Trading Tool API.
+E:D Market Connector plugin to access the [Elite Trading Tool](http://elitetradingtool.co.uk/) API.
 Plugin currently only finds the best trading route (loop ?) at your system location.
 
 ![Market Connector Screenshot](http://i.imgur.com/fVsMjxD.png)
